@@ -1,7 +1,14 @@
+<img src="images/cover-gh.png" >
+
 Welcome to my versioning world
 ====
 
-🙋‍♂️ I'm Teo. I thirst for knowledge. I like business, design, and coding a lot. I am finishing my degree in computer science.
+
+<p align="center">
+  <img align="center" style="width:120px;" src="images/teo-ola.webp" >
+</p>
+
+I'm Teo. I thirst for knowledge. I like business, design, and coding a lot. I am finishing my degree in computer science.
 ----
 
 <p align="center">
