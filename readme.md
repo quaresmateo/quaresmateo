@@ -5,7 +5,7 @@ Welcome to my versioning world
 
 
 <p align="center">
-  <img align="center" src="https://raw.githubusercontent.com/quaresmateo/quaresmateo/master/images/teo-ola.webp" >
+  <img align="center" src="https://raw.githubusercontent.com/quaresmateo/quaresmateo/master/images/teo-ola.png" >
 </p>
 
 I'm Teo. I thirst for knowledge. I like business, design, and coding a lot. I am finishing my degree in computer science.
