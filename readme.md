@@ -1,14 +1,14 @@
 <img src="https://raw.githubusercontent.com/quaresmateo/quaresmateo/master/images/cover-gh.png" >
 
-Welcome to my versioning world
-====
+# Welcome to my versioning world
+
 
 
 <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/quaresmateo/quaresmateo/master/images/teo-ola.png" >
 </p>
 
-I'm Teo. I thirst for knowledge. I like business, design, and coding a lot. I am finishing my degree in computer science.
+I'm Teo. I thirst for knowledge. I like business, design, and coding a lot. I'm finishing my computer science degree and I’m venturing into coding world.
 ----
 
 <p align="center">
