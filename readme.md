@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/quaresmateo/quaresmateo/master/images/cover-gh.png" >
 </p>
 
-# Welcome to my versioning world
+<h1 align="center" > Welcome to my versioning world </h1>  
 
 
 
@@ -10,8 +10,10 @@
   <img align="center" src="https://raw.githubusercontent.com/quaresmateo/quaresmateo/master/images/teo-ola.png" >
 </p>
 
-I'm Teo. I like business, design, and coding a lot. I'm finishing my computer science degree and I’m venturing into coding world. I'm very curious and I'm always googling.
-----
+<h2 align="center" >
+  I'm Teo. I like business, design, and coding a lot. I'm finishing my computer science degree and I’m venturing into coding world. I'm very curious and I'm always googling.
+</h2>
+
 
 <p align="center">
   <b>Some Links:</b>
