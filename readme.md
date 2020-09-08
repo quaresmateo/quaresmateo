@@ -9,7 +9,7 @@
 </p>
 
 <h2 align="center" >
-  I'm Teo. I like business, design, and coding a lot. I'm finishing my computer science degree and I’m venturing into coding world.
+  I'm Teo. I like business, technology, design, and coding a lot. I'm finishing my computer science degree and I’m venturing into coding world.
 </h2>
 
 <p align="center">
