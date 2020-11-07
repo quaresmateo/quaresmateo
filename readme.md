@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/quaresmateo/quaresmateo/master/images/cover-gh.png" >
+  <img src="https://trello-attachments.s3.amazonaws.com/5e512004ffea94545b88f3a6/5fa7329a30b9a61a81a185bc/2af5ba2fb0b10b16846e0d3692e39f3f/teo-ola.png" >
 </p>
 
 <h1 align="center" > Welcome to my versioning world </h1>
