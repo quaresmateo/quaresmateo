@@ -1,16 +1,19 @@
 <p align="center">
-  <img src="https://trello-attachments.s3.amazonaws.com/5e512004ffea94545b88f3a6/5fa7329a30b9a61a81a185bc/2af5ba2fb0b10b16846e0d3692e39f3f/teo-ola.png" >
+  <img src="https://trello-attachments.s3.amazonaws.com/5e512004ffea94545b88f3a6/5fa7329a30b9a61a81a185bc/bad68555794e5ea9156c808300807ab7/teo-running-stack.png" >
 </p>
 
 <h1 align="center" > Welcome to my versioning world </h1>
 
 <p align="center">
-  <img align="center" src="https://raw.githubusercontent.com/quaresmateo/quaresmateo/master/images/teo-ola.png" >
+  <img align="center" src="https://trello-attachments.s3.amazonaws.com/5e512004ffea94545b88f3a6/5fa7329a30b9a61a81a185bc/2af5ba2fb0b10b16846e0d3692e39f3f/teo-ola.png" >
 </p>
 
-<h2 align="center" >
-  I'm Teo. I like business, technology, design, and coding a lot. I'm finishing my computer science degree and I’m venturing into coding world.
-</h2>
+<p align="center" >
+  I'm Teo. I like business, technology, design, and coding a lot.
+</p>
+<p align="center">
+  I'm finishing my computer science degree and I’m venturing into coding world.
+</p>
 
 <p align="center">
   <b>Some Links:</b>
