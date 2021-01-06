@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://trello-attachments.s3.amazonaws.com/5e512004ffea94545b88f3a6/5fa7329a30b9a61a81a185bc/bad68555794e5ea9156c808300807ab7/teo-running-stack.png" >
+  <img src="https://trello-attachments.s3.amazonaws.com/5e512004ffea94545b88f3a6/5fa7329a30b9a61a81a185bc/0bfe5c5bf8afc5f62415227ab4200aa5/background.png" >
 </p>
 
 <h1 align="center" > Welcome to my versioning world </h1>
