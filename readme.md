@@ -9,13 +9,13 @@
 </p>
 
 <p align="center" >
-  I'm Teo. I like business, technology, design, and coding a lot.
+  I'm Teo. I love technology, design, business and coding a lot.
 </p>
 <p align="center">
   I'm finishing my computer science degree and I’m venturing into coding world.
 </p>
 
-<p align="center">
+<div align="center">
   <b>Some Links:</b>
   <br>
   <br>
@@ -24,4 +24,13 @@
   <a href="https://instagram.com/teoian.dev"><img src="https://trello-attachments.s3.amazonaws.com/5e512004ffea94545b88f3a6/5fa7329a30b9a61a81a185bc/40f744a0c2f750d529580435b3c1b1f5/instagram-filled.png" ></a> 
   <a href="https://twitter.com/quaresmateo"><img src="https://trello-attachments.s3.amazonaws.com/5e512004ffea94545b88f3a6/5fa7329a30b9a61a81a185bc/de7d4b075b4a3da8a74092b09f7714ed/twitter.png" ></a> 
   <br><br>
-</p>
+</div>
+
+<div align="center">
+
+  [![quaresmateo github stats](https://github-readme-stats.vercel.app/api?username=quaresmateo&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=quaresmateo&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
