@@ -17,24 +17,10 @@
 <p align="center" >
   Hi, I'm Teoian. I love technology, to code, books and I am a business enthusiast.
 </p>
-<p align="center">
-BA in computer science and lately focused on software engineering.</p>
-<br>
-<br>
 
-<div align="center">
-  <b>Some Links:</b>
-  <br>
-  <br>
-  <a href="https://www.linkedin.com/in/teoian-quaresma-2b909b142/"><img height="48px" src="https://trello-attachments.s3.amazonaws.com/5e512004ffea94545b88f3a6/5fa7329a30b9a61a81a185bc/2820796f976e5b5c0f00837ee65bdc4b/linkedin.png" ></a> 
-  &nbsp;
-  &nbsp;
-  <a href="https://instagram.com/teoian.dev"><img height="48px" src="https://trello-attachments.s3.amazonaws.com/5e512004ffea94545b88f3a6/5fa7329a30b9a61a81a185bc/9854e646c73811d049e5a488ec2c991c/instagram.png" ></a>
-  &nbsp;
-  &nbsp;
-  <a href="https://twitter.com/quaresmateo"><img height="48px" src="https://trello-attachments.s3.amazonaws.com/5e512004ffea94545b88f3a6/5fa7329a30b9a61a81a185bc/fb7efc65f30e3fc1c492aedaf0f85497/twitter.png" ></a> 
-  <br><br>
-</div>
+<p align="center">
+  BA in computer science and lately focused on software engineering.
+</p>
 
 <br>
 <br>
