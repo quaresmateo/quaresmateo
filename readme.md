@@ -18,9 +18,7 @@
   Hi, I'm Teoian. I love technology, to code, books and I am a business enthusiast.
 </p>
 <p align="center">
-  I'm finishing my computer science degree and I'm building great programs in this dev's world.
-</p>
-
+BA in computer science and lately focused on software engineering.</p>
 <br>
 <br>
 
